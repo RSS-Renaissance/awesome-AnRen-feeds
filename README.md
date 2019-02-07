@@ -25,3 +25,4 @@
 [Elizen - 人间不值得](https://blog.elizen.me/) | <https://blog.elizen.me/feed>
 [清荑的歧路花园](http://www.favfavfav.com) | <http://www.favfavfav.com/feed.xml>
 [史远方 - 简书](https://www.jianshu.com/u/0f911867defd) | <https://rsshub.app/jianshu/user/0f911867defd>
+[橙子大海 - 简书](https://www.jianshu.com/u/1d8d1ac207c7) | <https://rsshub.app/jianshu/user/1d8d1ac207c7>
